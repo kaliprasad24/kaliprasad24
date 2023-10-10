@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @kaliprasad24
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 known languages python,java,c 
+- good at java
+- data structures known - linkedlist , trees , graph , segmenttree, trie  
 - 📫 How to reach me on gmail "patchakaliprasad@gmail.com"
 
 <!---
